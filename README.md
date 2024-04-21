@@ -3,9 +3,9 @@
 iExpense is a comprehensive iOS app built using SwiftUI, designed to help users track and manage their expenses efficiently. With intuitive categorization and a user-friendly interface, iExpense allows users to monitor their spending habits, categorize expenses into personal or business, and view transaction details.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="screenshots/iExpense_main.png" alt="iExpense Main Screen" width="270"/>
-    <img src="screenshots/iExpense_add.png" alt="Adding an Expense" width="270"/>
-    <img src="screenshots/iExpense_remove.png" alt="Removing Expense Item" width="270"/>
+    <img src="screenshots/iExpense_main.png" alt="iExpense Main Screen" width="32%"/>
+    <img src="screenshots/iExpense_add.png" alt="Adding an Expense" width="32%"/>
+    <img src="screenshots/iExpense_remove.png" alt="Removing Expense Item" width="32%"/>
 </div>
 
 ## Features
